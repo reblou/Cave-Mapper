@@ -1,0 +1,7 @@
+[16:08:36] [main/INFO] [GradleStart]: username: Raloay
+[16:08:36] [main/INFO] [GradleStart]: Extra: [--passworld=NAk!8uwR]
+[16:08:37] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Rebecca/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --username, Raloay, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --passworld=NAk!8uwR, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[16:08:37] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:08:37] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:08:37] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[16:08:37] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
