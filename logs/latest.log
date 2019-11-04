@@ -1,31 +1,27 @@
-[20:20:52] [main/INFO]: Setting user: Raloay
-[20:20:53] [Client thread/INFO]: LWJGL Version: 2.9.1
-[20:21:04] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Cave Mapper, FMLFileResourcePack:Example Mod
-[20:21:04] [Sound Library Loader/INFO]: Sound engine started
-[20:21:09] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[20:21:09] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[20:21:09] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Cave Mapper, FMLFileResourcePack:Example Mod
-[20:21:09] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[20:21:09] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[20:21:10] [Sound Library Loader/INFO]: Sound engine started
-[20:21:16] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[20:21:16] [Server thread/INFO]: Generating keypair
-[20:21:23] [Server thread/INFO]: Preparing start region for level 0
-[20:21:24] [Server thread/INFO]: Changing view distance to 12, from 10
-[20:21:25] [Server thread/INFO]: Raloay[local:E:daa9c424] logged in with entity id 393 at (132.40734039372538, 76.0, 288.7742029766893)
-[20:21:25] [Server thread/INFO]: Raloay joined the game
-[20:21:28] [Server thread/INFO]: Saving and pausing game...
-[20:21:28] [Server thread/INFO]: Saving chunks for level 'creat'/Overworld
-[20:21:28] [Server thread/INFO]: Saving chunks for level 'creat'/Nether
-[20:21:28] [Server thread/INFO]: Saving chunks for level 'creat'/The End
-[20:21:31] [Server thread/INFO]: Saving and pausing game...
-[20:21:31] [Server thread/INFO]: Saving chunks for level 'creat'/Overworld
-[20:21:31] [Server thread/INFO]: Saving chunks for level 'creat'/Nether
-[20:21:31] [Server thread/INFO]: Saving chunks for level 'creat'/The End
-[20:21:47] [Server thread/INFO]: Stopping server
-[20:21:47] [Server thread/INFO]: Saving players
-[20:21:47] [Server thread/INFO]: Saving worlds
-[20:21:47] [Server thread/INFO]: Saving chunks for level 'creat'/Overworld
-[20:21:47] [Server thread/INFO]: Saving chunks for level 'creat'/Nether
-[20:21:47] [Server thread/INFO]: Saving chunks for level 'creat'/The End
-[20:21:48] [Client thread/INFO]: Stopping!
+[19:28:58] [main/INFO]: Setting user: Raloay
+[19:29:00] [Client thread/INFO]: LWJGL Version: 2.9.1
+[19:29:10] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Cave Mapper, FMLFileResourcePack:Example Mod
+[19:29:11] [Sound Library Loader/INFO]: Sound engine started
+[19:29:15] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[19:29:15] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[19:29:15] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Cave Mapper, FMLFileResourcePack:Example Mod
+[19:29:16] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[19:29:16] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[19:29:16] [Sound Library Loader/INFO]: Sound engine started
+[19:29:27] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[19:29:27] [Server thread/INFO]: Generating keypair
+[19:29:27] [Server thread/INFO]: Preparing start region for level 0
+[19:29:28] [Server thread/INFO]: Changing view distance to 12, from 10
+[19:29:29] [Server thread/INFO]: Raloay[local:E:1ca1c775] logged in with entity id 393 at (132.06957414547315, 76.0, 287.5333854041644)
+[19:29:29] [Server thread/INFO]: Raloay joined the game
+[19:29:54] [Server thread/INFO]: Saving and pausing game...
+[19:29:54] [Server thread/INFO]: Saving chunks for level 'creat'/Overworld
+[19:29:54] [Server thread/INFO]: Saving chunks for level 'creat'/Nether
+[19:29:54] [Server thread/INFO]: Saving chunks for level 'creat'/The End
+[19:29:57] [Server thread/INFO]: Stopping server
+[19:29:57] [Server thread/INFO]: Saving players
+[19:29:57] [Server thread/INFO]: Saving worlds
+[19:29:57] [Server thread/INFO]: Saving chunks for level 'creat'/Overworld
+[19:29:57] [Server thread/INFO]: Saving chunks for level 'creat'/Nether
+[19:29:57] [Server thread/INFO]: Saving chunks for level 'creat'/The End
+[19:30:00] [Client thread/INFO]: Stopping!
